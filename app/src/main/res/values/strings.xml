@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DriverAmbulanceGratis</string>
+    <string name="deskripsi">Ambulance Gratis yang disediakan pemerintah Kota Bandar Lampung</string>
+    <string name="maps_api_key">AIzaSyCmkKI6PRPymBZAi9y6qh892595nf2i2yA</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for
+        your location
+    </string>
+    <string name="online">online</string>
+    <string name="offline">offline</string>
+</resources>

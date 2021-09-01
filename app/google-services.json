@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "458311408291",
+    "firebase_url": "https://myambulance2-c2602.firebaseio.com",
+    "project_id": "myambulance2-c2602",
+    "storage_bucket": "myambulance2-c2602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458311408291:android:dfb9283b73c5c415c97d16",
+        "android_client_info": {
+          "package_name": "com.apps.driverambulancegratis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0s196dunrIXdYdJ6NH5q2xwzkuyn_vP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458311408291:android:b7f3c86fc1f086b1c97d16",
+        "android_client_info": {
+          "package_name": "com.example.driverambulance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0s196dunrIXdYdJ6NH5q2xwzkuyn_vP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458311408291:android:ba65cffb9fea2faac97d16",
+        "android_client_info": {
+          "package_name": "com.example.myambulance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0s196dunrIXdYdJ6NH5q2xwzkuyn_vP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458311408291:android:0036a2dc56cb7207c97d16",
+        "android_client_info": {
+          "package_name": "com.example.pengelolaambulance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0s196dunrIXdYdJ6NH5q2xwzkuyn_vP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458311408291:android:1d23c95b5ec5ac90c97d16",
+        "android_client_info": {
+          "package_name": "com.ta.sbuniladriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0s196dunrIXdYdJ6NH5q2xwzkuyn_vP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
